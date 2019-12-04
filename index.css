@@ -1,0 +1,56 @@
+#naslov {
+  text-align: center;
+  color: white;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  text-shadow: 4px 4px 2px #000000;
+  font-family: 'Solway', serif;
+
+}
+
+#opis {
+  text-align: center;
+  color: gray;
+  margin-top: 0px;
+  margin-bottom: 50px;
+  text-shadow: 4px 4px 2px #000000;
+  font-family: 'Solway', serif;
+}
+
+#nav {
+  width: 100%;
+  text-align: center;
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
+#platno {
+  border-style: none;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 30px;
+  margin-top: 40px;
+}
+
+#vsebina {
+  border-style: none;
+  padding: 30px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+a {
+  background-color: lightgray;
+  color: #093057;
+  padding: 10px;
+  border-top-right-radius: 3px;
+  border-top-left-radius: 3px;
+  padding-bottom: 4px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+body {
+  background-color: #a1a7ff;
+  font-family: 'Comfortaa', cursive;
+}
